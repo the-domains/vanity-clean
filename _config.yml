@@ -1,0 +1,14 @@
+layout_spectrum: 0.6486739602405578
+typography_spectrum: 0.507919488940388
+color:
+  brandStrength: 0.9636402286123484
+  lightness: 0.5383899903390557
+  saturation: 0.18176889489404857
+  rhythmicContrast: 0.32952684233896434
+  brandColors:
+    - '#3C493F'
+    - '#7E8D85'
+    - '#B3BFB8'
+    - '#F0F7F4'
+    - '#A2E3C4'
+name: 'Vanity Clean '
